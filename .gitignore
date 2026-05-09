@@ -1,0 +1,29 @@
+# Python environments
+venv/
+env/
+.env
+
+# Cache directories
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Data files
+*.csv
+*.xlsx
+data/*
+!data/.keep
+
+# IDE and Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
